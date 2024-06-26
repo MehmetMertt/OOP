@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1719314776 source:c:\users\mehmet\desktop\angabe\tiles\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Floor.h"
+
+1719311912 source:c:\users\mehmet\desktop\angabe\tiles\src\bluetile.cpp
+	"BlueTile.h"
+
+1719311912 c:\users\mehmet\desktop\angabe\tiles\include\bluetile.h
+	<Tile.h>
+
+1719311371 c:\users\mehmet\desktop\angabe\tiles\include\tile.h
+	<iostream>
+	<stdlib.h>
+
+1719311980 source:c:\users\mehmet\desktop\angabe\tiles\src\greentile.cpp
+	"GreenTile.h"
+
+1719312048 c:\users\mehmet\desktop\angabe\tiles\include\greentile.h
+	<Tile.h>
+
+1719311522 source:c:\users\mehmet\desktop\angabe\tiles\src\redtile.cpp
+	"RedTile.h"
+
+1719311507 c:\users\mehmet\desktop\angabe\tiles\include\redtile.h
+	<Tile.h>
+
+1719312881 source:c:\users\mehmet\desktop\angabe\tiles\src\tile.cpp
+	"Tile.h"
+
+1719313586 c:\users\mehmet\desktop\angabe\tiles\include\floor.h
+	"Tile.h"
+	"RedTile.h"
+	"BlueTile.h"
+	"GreenTile.h"
+	"RedTile.h"
+	<vector>
+	<algorithm>
+
+1719314689 source:c:\users\mehmet\desktop\angabe\tiles\src\floor.cpp
+	"Floor.h"
+	<iostream>
+	"GreenTile.h"
+	"BlueTile.h"
+

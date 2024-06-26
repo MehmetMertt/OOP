@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1719322497 source:c:\users\mehmet\desktop\aufgaben oop\fahrrad\fahrrad\src\part.cpp
+	"Part.h"
+
+1719322496 c:\users\mehmet\desktop\aufgaben oop\fahrrad\fahrrad\include\part.h
+
+1719326878 source:c:\users\mehmet\desktop\aufgaben oop\fahrrad\fahrrad\src\chain.cpp
+	"Chain.h"
+	"Part.h"
+	<iostream>
+
+1719322774 c:\users\mehmet\desktop\aufgaben oop\fahrrad\fahrrad\include\chain.h
+	<Part.h>
+
+1719327222 source:c:\users\mehmet\desktop\aufgaben oop\fahrrad\fahrrad\src\bicycle.cpp
+	"Bicycle.h"
+	<stdexcept>
+	<iostream>
+
+1719325200 c:\users\mehmet\desktop\aufgaben oop\fahrrad\fahrrad\include\bicycle.h
+	<vector>
+	"Part.h"
+	"Chain.h"
+	"Tube.h"
+	"Spoke.h"
+
+1719323318 c:\users\mehmet\desktop\aufgaben oop\fahrrad\fahrrad\include\tube.h
+	<Part.h>
+
+1719324213 c:\users\mehmet\desktop\aufgaben oop\fahrrad\fahrrad\include\spoke.h
+	<Part.h>
+
+1719327063 source:c:\users\mehmet\desktop\aufgaben oop\fahrrad\fahrrad\src\spoke.cpp
+	"Spoke.h"
+	<stdlib.h>
+	<stdexcept>
+
+1719324201 source:c:\users\mehmet\desktop\aufgaben oop\fahrrad\fahrrad\src\tube.cpp
+	"Tube.h"
+	<stdlib.h>
+	<iostream>
+
+1719326663 source:c:\users\mehmet\desktop\aufgaben oop\fahrrad\fahrrad\main.cpp
+	<iostream>
+	<time.h>
+	"Bicycle.h"
+	<stdlib.h>
+

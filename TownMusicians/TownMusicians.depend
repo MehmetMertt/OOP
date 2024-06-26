@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1719394339 source:c:\users\mehmet\desktop\aufgaben oop\townmusicians\main.cpp
+	<iostream>
+	"Concert.h"
+
+1719395915 c:\users\mehmet\desktop\aufgaben oop\townmusicians\include\concert.h
+	<vector>
+	"IAnimalSong.h"
+	"CatSong.h"
+	"DogSong.h"
+	"RoosterSong.h"
+
+1719393448 c:\users\mehmet\desktop\aufgaben oop\townmusicians\include\ianimalsong.h
+	<vector>
+
+1719394213 source:c:\users\mehmet\desktop\aufgaben oop\townmusicians\src\catsong.cpp
+	"CatSong.h"
+	<vector>
+	<stdexcept>
+
+1719388284 c:\users\mehmet\desktop\aufgaben oop\townmusicians\include\catsong.h
+	<IAnimalSong.h>
+
+1719394194 source:c:\users\mehmet\desktop\aufgaben oop\townmusicians\src\dogsong.cpp
+	"DogSong.h"
+	<stdexcept>
+
+1719391057 c:\users\mehmet\desktop\aufgaben oop\townmusicians\include\dogsong.h
+	<IAnimalSong.h>
+
+1719393255 source:c:\users\mehmet\desktop\aufgaben oop\townmusicians\src\ianimalsong.cpp
+	"IAnimalSong.h"
+
+1719391128 source:c:\users\mehmet\desktop\aufgaben oop\townmusicians\src\roostersong.cpp
+	"RoosterSong.h"
+	<stdexcept>
+
+1719391115 c:\users\mehmet\desktop\aufgaben oop\townmusicians\include\roostersong.h
+	<IAnimalSong.h>
+
+1719395816 source:c:\users\mehmet\desktop\aufgaben oop\townmusicians\src\concert.cpp
+	<iostream>
+	"Concert.h"
+	"DogSong.h"
+	"CatSong.h"
+	"RoosterSong.h"
+
